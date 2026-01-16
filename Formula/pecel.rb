@@ -2,7 +2,7 @@ class Pecel < Formula
   desc "A powerful CLI tool to recursively combine file contents from directories"
   homepage "https://github.com/bhangun/pecel"
   url "https://github.com/bhangun/pecel/releases/download/v0.1.0/pecel-v0.1.0.tar.gz"
-  sha256 "b1d2f001354af243a93cc00418a8659d478303ed5c9a6e213026d9a5b73cec89"
+  sha256 "cedb2f8254f9fb20a069526d8657140bccedf899c63271901a7a22f1c1a31a23"
   license "MIT"
 
   def install
